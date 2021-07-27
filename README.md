@@ -16,4 +16,6 @@
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
 ![Docker](https://img.shields.io/badge/Docker-blue)
-![GraphQl](https://img.shields.io/badge/GraphQl-purple) 
+![GraphQl](https://img.shields.io/badge/GraphQl-purple)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
