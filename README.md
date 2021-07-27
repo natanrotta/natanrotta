@@ -3,7 +3,7 @@
 - 🔭 Meu nome é Natan Rotta
 - 😄 Tenho 3 anos de experiência na área de desenvolvimento ...
 - 🌱 Atualmente tenho aprendido GraphQl, NodeJs, Javascript, Typescript, React, React Native, Docker e assim por diante ...
-- 📫 Como entrar em contato comigo: natanrotta@gmail.com
+- 📫 Como entrar em contato comigo: natanrotta@gmail.com | https://www.linkedin.com/in/natan-rotta-452588168/
 - ⚡ Na vida é preciso ter coragem para ser diferente e muita competência para fazer a diferença
 
 <br />
