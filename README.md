@@ -3,12 +3,6 @@
 <p> In life, it takes courage to be different and a lot of competence to make a difference </p>
 <p> I’m currently learning GraphQl, NodeJs, Javascript, Bootstrap, React, React Native, Hasura and on and on </p>
 
-<div>
-  <a href="https://github.com/natanrotta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanrotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanrotta&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <br />
   
 ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
